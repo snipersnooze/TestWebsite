@@ -4,7 +4,6 @@
 
 <html>
 
-
      <head>
       <!-- basic -->
       <meta charset="utf-8">
@@ -49,7 +48,7 @@
       </div>
       <!-- end loader -->
       <!-- header -->
-      <header class="section">
+      <header class="section" style="margin-top:-3cm;">
          <!-- header inner -->
         <div class="header_main">
          <div class="header_main">

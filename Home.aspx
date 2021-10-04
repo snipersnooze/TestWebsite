@@ -2,7 +2,7 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-
+    
     <section >
          <div id="main_slider" class="section carousel slide banner-main" data-ride="carousel">
             <ol class="carousel-indicators">
