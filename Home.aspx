@@ -141,7 +141,7 @@
              </div>
             </div>
            </div>
-      </div>
+     
       <!-- end plant -->
       <!--about -->
       <div class="section about ">
@@ -230,7 +230,7 @@
             </div>
          </div>
       </section>
-      </div>
+     
       <!-- end about -->
       <!--Our  Clients -->
       <div id="plant" class="section_Clients layout_padding padding_bottom_0">
@@ -307,9 +307,7 @@
                   </div>
                </div>
             </div>
-         </div>
-      </div>
-   </div>
+         
       <!-- end Our  Clients -->
       <!-- start Contact Us-->
 
