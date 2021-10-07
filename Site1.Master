@@ -41,14 +41,15 @@
     </asp:ContentPlaceHolder>
 </head>
 
-<body class="main-layout">
+
+   <body class="main-layout" ">
       <!-- loader  -->
       <div class="loader_bg">
          <div class="loader"><img src="images/loading.gif" alt="#" /></div>
       </div>
       <!-- end loader -->
       <!-- header -->
-      <header class="section" style="margin-top:-3cm;">
+      <header class="section" style="margin-top:-101px; width:50cm;">
          <!-- header inner -->
         <div class="header_main">
          <div class="header_main">
@@ -83,18 +84,13 @@
         </div>
          <!-- end header inner -->
       </header>
-      <!-- end header -->
-      <!-- start Contact Us-->
-
-      
 <section style="color:black; margin-top:3cm;">
          <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
             </asp:ContentPlaceHolder>
     </section>
-      
-    <footer>
-    <div id="footer" class="Address layout_padding">
-       <div class="container">
+      <footer>
+    <div id="footer" class="Address layout_padding" style="width:50cm; position:absolute; top:100%; text-align:center; margin-left:-3cm;">
+       <div class="container" style="height:5cm;">
           <div class="row">
              <div class="col-sm-12">
                <div class="titlepage">
@@ -128,25 +124,23 @@
                      <div class="menu_text">
                         <ul>
                            <li class="active"><a href="#">Home</a></li>                         
-                           <li><a href="about.html">About</a></li>
+                           <li><a href="about.html">Abjjjjjjjjout</a></li>
                            <li><a href="clothes.html">Clothes</a></li>
                            <li><a href="clients.html">Shop</a></li>
                            <li><a href="contact.html">Contact Us</a></li>
                         </ul>
                      </div>
                   </div>
-       </div>
-   
-
-      <!-- end Contact Us-->
-      <!-- footer start-->
-      <div id="plant" class="footer layout_padding">
+         <div id="plant" class="footer layout_padding">
          <div class="container">
             <p>© 2019 All Rights Reserved. Design by<a href="https://html.design/"> Free Html Templates</a></p>
          </div>
       </div>
-	  
-    </footer>
+       </div>
+   
+     
+	  </footer>
+
       <!-- Javascript files-->
       <script src="js/jquery.min.js"></script>
       <script src="js/popper.min.js"></script>
